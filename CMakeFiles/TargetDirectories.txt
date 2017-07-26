@@ -1,0 +1,3 @@
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/CMakeFiles/rebuild_cache.dir
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/CMakeFiles/edit_cache.dir
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/CMakeFiles/main.dir

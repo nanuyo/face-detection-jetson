@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/detectBodyParts.cpp
+detectBodyParts.h
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/detectBodyParts.h
+
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/detectBodyParts.h
+opencv2/objdetect/objdetect.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/main.cpp
+opencv2/objdetect/objdetect.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+detectBodyParts.h
+/home/nvidia/hjworkspace/Body-Parts-Detection-master/detectBodyParts.h
+
